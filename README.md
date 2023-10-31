@@ -1,2 +1,2 @@
-# 3D-login-ui-ux
+# panda-login-ui-ux
 panda login page
